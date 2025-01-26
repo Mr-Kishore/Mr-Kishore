@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm is Kishore and I'm a ML Developer from Coimbatore</h2>
+<h2 align="left">Hi 👋! I'm is Kishore  a ML Developer and a PC hardware engineer from Coimbatore</h2>
 
 ###
 
