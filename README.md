@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Kishore a PC builder and an AI developer who practices Data Engineering from Coimbatore</h2>
+<h2 align="left">Hellooo 👋! I'm Kishore a PC builder and an AI developer who practices Data Engineering from Coimbatore</h2>
 
 ###
 
@@ -34,14 +34,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embeddedc logo"  />
-</div>
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
 </div>
 
 ###
