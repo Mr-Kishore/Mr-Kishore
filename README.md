@@ -1,66 +1,53 @@
-<h2 align="left">Hellooo 👋! I'm Kishore a PC builder and an AI developer who practices Data Engineering from Coimbatore</h2>
+# Kishore
 
-###
+**ML Engineer · Data Engineering · PC Builder**  
+Tamil Nadu, India · [LinkedIn](https://www.linkedin.com/in/kishoreee/) · [Medium](https://medium.com/@kishoretheblogger) · [HackerRank](https://www.hackerrank.com/profile/kishoreprogramm1)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-Kishore&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-Kishore&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+I build systems that extract meaning from data — and occasionally the machines they run on.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
-  <img width="12" />
+Currently completed my B.Sc. in Information Technology and pursuing Masters Degree. I practice ML, Generative AI, and emerging technologies, currently working as a developer at ATYA Consultancy Services, and contribute to open-source communities including GDG and TamilJUG.
+---
 
-###
+## Work
 
-<div align="left">
-  <a href="https://www.hackerrank.com/profile/kishoreprogramm1" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
-</a>
+**Suspicious Text Detection** — NLP pipeline for classifying potentially harmful text content. Active development.
 
-<a href="https://www.linkedin.com/in/kishoreee/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
+**Conversational Data Analysis System** — WhatsApp export parser → local LLM (Ollama) → structured SQLite storage → Streamlit dashboard. Final-year project, fully documented.
 
-<a href="https://medium.com/@kishoretheblogger" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
-</a>
+**Sign Language Recognition** — MediaPipe-based real-time classifier across 26 alphabets. Built and iterating on accuracy.
 
+**DSA in C** — Open-source beginner resource. 47 files, 22 source files, 9 module READMEs, tiered practice problems, 3 mini-projects.
 
-</div>
+**JVM Runtime Evolution Engine** — Java 24 multi-module Gradle project demonstrating live plugin hot-swapping via child-first class loading.
 
-###
+---
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQyNGs0eXN0bWY3a3F2azloaTJ2MnZ3dDNmNGoweGQ5MjllYjJ5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif"  />
+## Stack
 
-###
+**Languages** — Python · Java · C · JavaScript · PHP · Bash  
+**ML / Data** — MediaPipe · scikit-learn · Ollama · SQLite · Streamlit  
+**Frontend** — HTML · CSS · React · Tailwind  
+**Tools** — Git · Linux (Fedora daily driver) · Blender · GIMP  
+**Hardware** — NVIDIA RTX 4070 · Acer Predator Helios 300 (RTX 2060)
+
+---
+
+## Activity
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MR-Kishore/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MR-Kishore&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&hide_title=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-Kishore&layout=compact&langs_count=6&theme=github_dark&hide_border=true&hide_title=true" height="140" />
 </div>
 
-###
+---
+
+## Writing
+
+I write about ML, data engineering, and building in public on [Medium](https://medium.com/@kishoretheblogger).  
+Recent talks: Zero Trust DevSecOps (GDG × TamilJUG) · Data Engineering co-presentation.
+
+---
+
+*Open to collaboration on ML projects, data pipelines, and open-source tooling.*
