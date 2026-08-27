@@ -7,7 +7,7 @@ Tamil Nadu, India · [LinkedIn](https://www.linkedin.com/in/kishoreee/) · [Medi
 
 I build systems that extract meaning from data — and occasionally the machines they run on.
 
-Currently completed my B.Sc. in Information Technology and pursuing Masters Degree. I practice ML, Generative AI, and emerging technologies, currently working as a developer at ATYA Consultancy Services, and contribute to open-source communities including GDG and TamilJUG.
+Currently pursuing Masters Degree. I practice ML, Generative AI, and emerging technologies, currently working as a developer at ATYA Consultancy Services, and contribute to open-source communities including GDG and TamilJUG.
 ---
 
 ## Work
